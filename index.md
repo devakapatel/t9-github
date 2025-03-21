@@ -13,11 +13,7 @@ Navigate through the semesters and access essential resources, links, and more�
 
 ---
 
-## 💬 Join WhatApp Group
-
-Click [here](https://chat.whatsapp.com/JuvHVkzVjc41ywITKe23h0) to join whatsapp group for regular updates.
-
----
+## 💬 Join WhatApp Group: [here](https://chat.whatsapp.com/JuvHVkzVjc41ywITKe23h0)
 
 ## 🔗 Useful Links:
 
@@ -28,3 +24,5 @@ Looking for forms, WhatsApp groups, or more details about this project? Check ou
 ## About T9:
 
 This is your go-to hub for semester resources, project materials, and collaboration tools. Whether you’re revisiting past work or preparing for exams, T9 is built to make your academic life easier!
+
+---
